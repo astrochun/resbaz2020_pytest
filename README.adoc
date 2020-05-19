@@ -1,6 +1,6 @@
 = Presentation for UA ResBaz 2020
 
-This is the code and setup instructions for my presentation 19 May 2020 for the University of Arizona's [Research Bazaar](https://researchbazaar.arizona.edu/).
+This is the code and setup instructions for my presentation 19 May 2020 for the University of Arizona's https://researchbazaar.arizona.edu/[Research Bazaar].
 
 == Setup
 
@@ -11,7 +11,7 @@ I will be covering the first chapter of http://tinypythonprojects.com/[Tiny Pyth
 * tested (using `pytest`)
 * reproducible 
 
-I will live-code the `hello.py` example that starts from printing "Hello, World!" and moves through how to write a more flexible version that can greet a given argument.
+I will live-code the `hello.py` example that starts from printing "Hello, World!" and then goes on to a more flexible version that can greet a given argument.
 If you would like to code along, you can work locally on your own machine or use a free instance on repl.it to write in your browser.
 
 A PDF of the chapter is included as `tpp-ch1-hello.pdf`.
@@ -30,7 +30,7 @@ Another alternative is to "fork" the repo to copy it into your own account:
 1. Create an account on GitHub.com
 2. Click on the "Fork" button on this page.
 
-This is a copy of the chapter of https://github.com/kyclark/tiny_python_projects[Tiny Python Projects repo].
+This is a copy of the first chapter of https://github.com/kyclark/tiny_python_projects[Tiny Python Projects repo].
 If you think you might like to work further into the material, you might instead fork that repo. 
 
 Both repos have a `requirements.txt` file that lists modules we will need to format and test our code.
